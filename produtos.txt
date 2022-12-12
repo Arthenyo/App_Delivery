@@ -1,0 +1,22 @@
+[
+    Product(
+      nome: 'Pizza',
+      descricao: 'Pizza gostosa',
+      preco: 29.99,
+    ),
+    Product(
+      nome: 'refrigerante',
+      descricao: 'coca cola',
+      preco: 10.00,
+    ),
+    Product(
+      nome: 'suco',
+      descricao: 'suco',
+      preco: 5.00,
+    ),
+    Product(
+      nome: 'hanburguer',
+      descricao: 'hanburguer gostoso',
+      preco: 7.50,
+    ),
+  ]
